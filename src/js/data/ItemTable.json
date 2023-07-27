@@ -1,0 +1,134 @@
+[
+    {
+     "name": "Little Health Potion", 
+     "mod": 10,
+     "type": "stats",
+     "stat": "hlth"
+    },
+    {
+     "name": "Protein Powder",
+     "mod": 25,
+     "type": "exp",
+     "stat": "muscle"
+    },
+    {
+     "name": "Size Elixir",
+     "mod": 10,
+     "type": "exp",
+     "stat": "size"
+    },
+    {
+     "name": "Tub of Grease",
+     "mod": 0.01,
+     "type": "exp",
+     "stat": "fat"
+    },
+    {
+     "name": "Vitamins",
+     "mod": 1,
+     "type": "stats",
+     "stat": "con"
+    },
+    {
+     "name": "Blue Pill",
+     "mod": 1.0,
+     "type": "gender",
+     "stat": "penis"
+    },
+    {
+     "name": "Magnesium Pills",
+     "mod": 1.0,
+     "type": "gender",
+     "stat": "balls"
+    },
+    {
+     "name": "Injection",
+     "mod": 0.01,
+     "type": "gender",
+     "stat": "breasts"
+    },
+    {
+     "name": "Health Potion",
+     "mod": 25,
+     "type": "stats",
+     "stat": "hlth"
+    },
+    {
+     "name": "Muscle Reducer",
+     "mod": -15,
+     "type": "exp",
+     "stat": "muscle"
+    },
+    {
+     "name": "Shrink Elixir",
+     "mod": -10,
+     "type": "exp",
+     "stat": "size"
+    },
+    {
+     "name": "Soybeans",
+     "mod": -0.05,
+     "type": "exp",
+     "stat": "fat"
+    },
+    {
+     "name": "Penis Reducer",
+     "mod": -1,
+     "type": "gender",
+     "stat": "penis"
+    },
+    {
+     "name": "Heat Pad",
+     "mod": -1,
+     "type": "gender",
+     "stat": "balls"
+    },
+    {
+     "name": "Breast Reducer",
+     "mod": -0.01,
+     "type": "gender",
+     "stat": "breasts"
+    },
+    {
+     "name": "Large Health Potion",
+     "mod": 100,
+     "type": "stats",
+     "stat": "hlth"
+    },
+    {
+     "name": "Macro Elixir",
+     "mod": 1000,
+     "type": "exp",
+     "stat": "size"
+    },
+    {
+     "name": "Super Elixir",
+     "mod": 100000,
+     "type": "exp",
+     "stat": "size"
+    },
+    {
+     "name": "Penis Syrup",
+     "mod": 1000.0,
+     "type": "gender",
+     "stat": "penis"
+    },
+    {
+     "name": "Potassium Pills",
+     "mod": 1000.0,
+     "type": "gender",
+     "stat": "balls"
+    },
+    {
+     "name": "Penis Sizer",
+     "mod": 100000.0,
+     "type": "gender",
+     "stat": "penis"
+    },
+    {
+     "name": "Balls Sizer",
+     "mod": 100000.0,
+     "type": "gender",
+     "stat": "balls"
+    }
+   ]
